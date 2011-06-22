@@ -2,11 +2,9 @@
 Django Model Filters
 ====================
 
-**
-NOTE: THE ``MODEL_FILTERS`` APP IS CHANGING ITS NAME TO ``MODEL_BLOCKS``.
+**NOTE: THE ``MODEL_FILTERS`` APP IS CHANGING ITS NAME TO ``MODEL_BLOCKS``.
 PLEASE UPDATE ANY REQUIREMENTS FILES TO POINT TO THE NEW NAME.  THE
-SOURCE WILL BE AVAILABLE AT https://github.com/mjumbewu/django-model-blocks
-**
+SOURCE WILL BE AVAILABLE AT https://github.com/mjumbewu/django-model-blocks**
 
 The ``model_filters`` app provides you with automatically generated, stylable
 generic Django templates. It fills a gap left by ``admin`` and ``databrowse`` by
